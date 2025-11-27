@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#head{
+    animation : head 5s ;
+    color: red;
+}
+@keyframes head {
+ 0% { color: rgba(255, 0, 0, 0); }
+ 50% { color: rgb(116, 20, 33); }
+ 100% { color: red; }
+}
+#msg{
+    text-shadow: 0 0 1rem rgba(255,20,147, 255); 
+    font-size: 50px;
+}
+body{
+    background-color: black;
+    text-align: center; 
+    color:white;
+}
+.container{
+    height: 200px; 
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.game{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box{
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 0 1rem rgba(255,20,147, 255); 
+    font-size: 30px;
+    color: #b0413e;
+    background-color: black;
+}
+#reset{
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 1rem #b03ea1 ; 
+    opacity: 255;
+    background-color: black;
+    color: #b0413e;
+}
+.fullGame{
+    padding: 40px;
+}
+#new{
+    padding: 5px;
+}
+#newGame{
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 1rem #b03ea1 ; 
+    opacity: 255;
+    background-color: black;
+    color: #b0413e;
+}
+.hide{
+    display: none;
+}
+#msg2{
+    text-shadow:3px 2px 5px rgba(255,20,147, 255); 
+    font-size: 20px;
+    padding: 50px;
+}

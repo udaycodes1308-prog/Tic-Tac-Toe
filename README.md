@@ -1,21 +1,27 @@
 🧩 Tic-Tac-Toe Game
 
-A simple and beautifully designed Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
-The game supports two players (X and O), detects wins, and allows users to reset or start a new match.
+A stylish and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript, featuring smooth UI, winner detection, and easy controls.
+
+👤 About the Developer
+
+Hi, I’m Uday, also known as @udaycodes — a passionate learner who loves JavaScript, web development, and building fun projects that improve my coding skills every day.
+I’m currently a Class 12 student, exploring programming and leveling up through real-world projects.
+
+This Tic-Tac-Toe project is a part of my journey to become stronger in Computer Science, Technology, and Mathematics.
 
 🚀 Features
 
-🎮 Classic 3×3 Tic-Tac-Toe board
+🎮 Classic 3×3 gameplay
 
-✨ Clean UI with animations
+🔥 Smooth UI animations
 
-🔄 Reset Game & New Game buttons
+🧠 Winner detection logic
 
-🧠 Smart winner detection
+🔄 Reset & New Game options
 
-📱 Responsive-friendly design
+💻 Pure Vanilla HTML CSS JS
 
-💡 Developed fully using vanilla JavaScript
+✨ Clean and minimal design
 
 🛠️ Technologies Used
 
@@ -35,24 +41,24 @@ JavaScript (Vanilla JS)
 
 Player O starts first
 
-Click any empty box to make your move
+Click a box to place your move
 
-Players take turns placing X and O
+Turns switch automatically
 
-The game automatically detects the winner
+Winner is shown instantly
 
-Use New Game or Reset Game anytime
+Start over with New Game or Reset
 
 🔧 How to Run
-Download all files on the same folder
-Just open index.html in your browser.
-No setup or installation needed.
 
-👨‍💻 Developer
+Just open index.html in any browser.
+No installation required.
 
-Developed by @udaycodes
+👨‍💻 Developed By
 
+Uday (@udaycodes)
+Focused on building, learning, and sharing my coding journey one project at a time.
 
-⭐ Show Some Love
+⭐ Support
 
-If you like this project, star ⭐ the repository!  
+If you like this project, consider giving it a ⭐ star on GitHub!

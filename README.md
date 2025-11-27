@@ -49,18 +49,22 @@ Winner is shown instantly
 
 Start over with New Game or Reset
 
-🔧 How to Run
-
 🕹️ How to Run This Game on Your Computer
+
 To run this Tic-Tac-Toe game correctly, follow these simple steps:
+
 1️⃣ Download the Project
+
 Download or clone the entire project folder.
+
 2️⃣ Keep All Files in the Same Folder
+
 Make sure these three files are placed together in one folder:
 
 index.html  
 style.css  
 app.js
+
 
 Your folder should look like this:
 
@@ -84,7 +88,6 @@ It will open in your browser, and the game will start instantly.
 4️⃣ No Installation Needed
 
 The game uses pure HTML, CSS, and JavaScript, so it runs in any browser without any setup.
-
 👨‍💻 Developed By
 
 Uday (@udaycodes)
